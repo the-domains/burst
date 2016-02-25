@@ -1,0 +1,14 @@
+layout_spectrum: 0.5573477
+typography_spectrum: 0.4354839
+color:
+  saturation: 0.218638
+  lightness: 0.9426523
+  brandStrength: 0.3727598
+  rhythmicContrast: 0.6379929
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Burst
